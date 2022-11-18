@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TranslationApp</string>
+    <string name="select">Select the translator</string>
+    <string name="translate">Translate</string>
+    <string name="translator">You\'ve selected %1$s Translation</string>
+    <string name="error">Something went wrong</string>
+</resources>
